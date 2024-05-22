@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/MwahajJutt/Rock-Paper-Scissor
 Open index.html in your web browser to play the game.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
